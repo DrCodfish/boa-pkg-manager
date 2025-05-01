@@ -12,7 +12,4 @@
 - **Shared Dependencies**: Within the isolated environment, packages can share dependencies, optimizing storage and improving installation speed.
 - **User-Friendly CLI**: Boa features a straightforward command-line interface that simplifies package management tasks, making it accessible for users of all experience levels.
 
-## Installation
-
-To install Boa, follow these steps:
 
